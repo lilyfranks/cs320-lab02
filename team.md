@@ -1,4 +1,4 @@
 Team Members:
 
 * Lily 
-* TODO: others
+* Gautam
